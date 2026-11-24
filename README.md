@@ -21,7 +21,7 @@ Here is a curated selection of systems I have engineered. Comprehensive architec
 
 ### 🛡️ [PassGuard — Password Security Microservice](https://github.com/kassiis/project-portfolio/blob/main/projects/Passguard.md)
 A modular Python microservice providing multi-layer credential defense: real-time entropy and dictionary analysis, cryptographically secure password and Diceware generation, RFC 6238 TOTP two-factor authentication, Argon2id hashing, and privacy-preserving breached credential checking via the Have I Been Pwned k-anonymity model.  
-*(Source code: Private repository)*
+*(Public core: [passguard-core](https://github.com/kassiis/passguard-service) · Full development version: private)*
 
 ### 📊 [SEC_LAB — Real-time Linux Telemetry System](https://github.com/kassiis/project-portfolio/blob/main/projects/SEC-LAB.md)
 A zero-dependency Go daemon and interactive web dashboard engineered for cybersecurity laboratory environments. Gathers kernel metrics directly from the Linux `/proc` virtual filesystem using non-blocking delta calculations and stores bounded historical samples in a preallocated circular ring buffer.  
@@ -45,4 +45,5 @@ To explore all documented projects—including retail accounting systems, geogra
 
 ---
 
-*Note: In accordance with project security practices, all underlying source code repositories remain private. The documentation linked above provides sanitized technical specifications, design methodologies, and feature overviews.*
+*👋 Note: Public versions are linked where available. Most active development lives in private repositories, and I'm happy to walk through code on request.*
+*✍️ I'm also the author of a webnovel called **Klodios**. I love inventing fantasy creatures and worlds, only my pen is a keyboard. 😅*
