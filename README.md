@@ -33,7 +33,7 @@ An empirical evaluation suite comparing supervised ensemble classifiers (Random 
 
 ### 🕷️ [Algerian Web Scraper & Crawler](https://github.com/kassiis/project-portfolio/blob/main/projects/DZ-Web-Scraper.md)
 A high-throughput Python data extraction engine powered by Scrapling, featuring autonomous site navigation with cycle detection, structured table extraction, and verification of Algerian `.dz` ccTLD records, telephone numbering plans, and commercial registries.  
-*(Source code: Private repository)*
+*(Public core: [dz-web-scraper-core](https://github.com/kassiis/dz-web-scraper) · Full development version: private)*
 
 ---
 
